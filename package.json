@@ -1,0 +1,16 @@
+{
+  "name": "flareact-template",
+  "version": "1.0.0",
+  "author": "Josh Larson <jplhomer@gmail.com>",
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": {
+    "dev": "flareact dev",
+    "publish": "flareact publish"
+  },
+  "dependencies": {
+    "flareact": "^0.0.4",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  }
+}
