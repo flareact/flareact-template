@@ -4,9 +4,10 @@
   "author": "Josh Larson <jplhomer@gmail.com>",
   "license": "MIT",
   "main": "index.js",
+  "private": true,
   "scripts": {
     "dev": "flareact dev",
-    "publish": "flareact publish"
+    "deploy": "flareact publish"
   },
   "dependencies": {
     "flareact": "^0.0.4",
