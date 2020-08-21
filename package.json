@@ -7,6 +7,7 @@
   "private": true,
   "scripts": {
     "dev": "flareact dev",
+    "build": "flareact build",
     "deploy": "flareact publish"
   },
   "dependencies": {
