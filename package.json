@@ -13,10 +13,6 @@
   "dependencies": {
     "flareact": "^0.1.0",
     "react": "^16.13.1",
-    "react-dom": "^16.13.1",
-    "typescript": "^4.0.3"
-  },
-  "devDependencies": {
-    "@types/react": "^16.9.53"
+    "react-dom": "^16.13.1"
   }
 }
