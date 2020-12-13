@@ -11,8 +11,8 @@
     "deploy": "flareact publish"
   },
   "dependencies": {
-    "flareact": "^0.1.0",
-    "react": "^16.13.1",
-    "react-dom": "^16.13.1"
+    "flareact": "^1.0.0",
+    "react": "^17.0.0",
+    "react-dom": "^17.0.0"
   }
 }
