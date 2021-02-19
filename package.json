@@ -1,8 +1,8 @@
 {
-  "name": "flareact-template",
+  "name": "{{ project-name }}",
   "version": "1.0.0",
-  "author": "Josh Larson <jplhomer@gmail.com>",
   "license": "MIT",
+  "description": "A template for kick starting a Flareact project",
   "main": "index.js",
   "private": true,
   "scripts": {
