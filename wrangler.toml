@@ -1,9 +1,9 @@
 name = "flareact-template"
 type = "webpack"
-account_id = ""
+account_id = "3b049d5db465340780adc67e6aba6ba9"
 workers_dev = true
 route = ""
-zone_id = ""
+zone_id = "0fd576cb07c82bb880ffb522425125ad"
 webpack_config = "node_modules/flareact/webpack"
 
 [site]
