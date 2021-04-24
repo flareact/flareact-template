@@ -1,8 +1,8 @@
 {
-  "name": "{{ project-name }}",
+  "name": "flareact-project",
   "version": "1.0.0",
   "license": "MIT",
-  "description": "A template for kick starting a Flareact project",
+  "description": "A template for kickstarting a Flareact project",
   "main": "index.js",
   "private": true,
   "scripts": {
