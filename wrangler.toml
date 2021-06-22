@@ -1,10 +1,11 @@
 name = "flareact-template"
 type = "webpack"
-account_id = ""
+account_id = "664dd4790d298e6a2e2fddf03b4bc181"
 workers_dev = true
-route = ""
-zone_id = ""
+route = "https://webpackv22.nginxme.com/*"
+zone_id = "7ad1099bafa753bcba19d290930eadf2"
 webpack_config = "node_modules/flareact/webpack"
+
 
 [site]
 bucket = "out"
